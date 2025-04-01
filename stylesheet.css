@@ -84,7 +84,7 @@ img {
     background-position: top right;
 }
 #home {
-    background-image: url(main-bg.12.jpg);
+    background-image: href="main-bg.12.jpg;
     background-color: #fff;
     background-blend-mode: darken;
     min-height: 100vh;
