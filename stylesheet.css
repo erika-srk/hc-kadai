@@ -95,7 +95,7 @@ img {
 /* NEWS
 -------------------------------------------*/
 #news{
-    background-image: url(news-bg.jpg);
+    background-image: url("news-bg.jpg");
     height: 270px;
     margin-bottom: 40px;
 }
@@ -306,7 +306,7 @@ aside {
 /* menu
 -----------------------------------------*/
 #menu {
-    background-image: url(menu-bg12.jpg);
+    background-image: url("menu-bg12.jpg");
     min-height: 100vh;
 }
 .menu-content {
@@ -344,7 +344,7 @@ aside {
 /*  CONTACT
 ------------------------------*/
 #contact {
-    background-image: url(contact1.jpg);
+    background-image: url("contact1.jpg");
     min-height: 100vh;
 }
 /* フォーム　*/
