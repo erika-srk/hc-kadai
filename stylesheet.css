@@ -39,7 +39,7 @@ img {
     color: #0bd;
 }
 .page-header {
-    display: auto;
+    display: flex;
     justify-content: space-between;
     background-color: #faf7f053;
     width: 100%;
