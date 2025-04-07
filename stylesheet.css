@@ -17,6 +17,10 @@ img {
 }
 /* header
 --------------------------- */
+.hwrapper{
+    width: 100%;
+    background-color: #faf7f053;
+ }
 .logo {
     width: 210px;
     margin-top: 14px;
@@ -41,7 +45,6 @@ img {
 .page-header {
     display: flex;
     justify-content: space-between;
-    background-color: #faf7f053;
     width: 100%;
 }
 .wrapper {
